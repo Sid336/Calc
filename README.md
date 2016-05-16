@@ -13,5 +13,5 @@ Enter:-$ cd
          
 
 
-http://localhost:3000 - Enter this into a web browser to connect to the yesod server and see results
+http://localhost:3000/ - Enter this into a web browser to connect to the yesod server and see results
 http://www.yesodweb.com - some 3rd party code was used to implement some ( very few ) methods.
